@@ -442,6 +442,13 @@ DeviceConfig.isRunningOnEmulator()                  : boolean
 
 ## ChangeLog
 
-#### Version 1.01:
+#### Version 2.03:
 * Initial build
+* fixed some errors
+* update gradle build
+* change build tedpermission library to io.github.ParkSangGwon:tedpermission-normal:3.4.2
+* fixed tedpermission library errors
+* remastered old version 
 * compileSdkVersion 30, Java Version 1.8
+
+## Thanks for appsfeature to provide the source
